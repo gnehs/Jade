@@ -8,11 +8,11 @@
 
 ## _tags.jade
 快速產生社群網站所需的標籤
-```
+```jade
 格式
 +social_tags(title,description,image,url)
 ```
-```
+```jade
 範例
 +social_tags('Tocas Xiaoan','第一天，洨安創造了始春。第二天，始春延期了。第三天，始春持續延期好評熱映中。','og.jpg','https://xiaoan.tocas-ui.com/')
 ```
