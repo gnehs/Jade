@@ -6,6 +6,8 @@
 ## _tocasui.jade
 最新版本的 Tocas UI，不需要其餘設定
 
+如果有更新沒跟到，可以直接發 PR 或是去開 Issue
+
 ## _tags.jade
 快速產生社群網站所需的標籤
 ```jade
